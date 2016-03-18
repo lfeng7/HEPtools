@@ -1,0 +1,4 @@
+Inspired by Brandon's plotting scripts. 
+3-16-2016
+
+This is a collection of plotting scripts that makes 1 or 2D histogram plots with one or more files and one or two branches. Input file should be root file with only one ttree inside. masterplot.py is the main plotting interface that calls different plotting script as needed. Do python masterplot.py or ./masterplot.py to get the help messages. 
